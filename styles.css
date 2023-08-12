@@ -11,3 +11,22 @@
 body{
     background-color: black;
 }
+.board{
+    margin-left: 700px;
+    width: 500px;
+    height: 500px;
+    display: grid;
+    border: 5px solid red;
+}
+.credits{
+    display: flex;
+    justify-content: center;
+}
+.footer{
+    color: red;
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+}
+.credits{
+    margin-top: 80px;
+}
